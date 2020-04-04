@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1585861193 source:c:\users\andres\desktop\laboratorio ii\estructuras avanzados\tp_struct_avanzado\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"funciones.h"
+
+1571584339 c:\users\andres\desktop\laboratorio ii\estructuras avanzados\tp_struct_avanzado\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1585860909 c:\users\andres\desktop\laboratorio ii\estructuras avanzados\tp_struct_avanzado\funciones.h
+
+1586038562 source:c:\users\andres\documents\github\estructuras avanzados\tp_struct_avanzado\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"funciones.h"
+	"ejercicios.h"
+	"Ej7.h"
+
+1571584339 c:\users\andres\documents\github\estructuras avanzados\tp_struct_avanzado\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1585967448 c:\users\andres\documents\github\estructuras avanzados\tp_struct_avanzado\funciones.h
+
+1586042765 c:\users\andres\documents\github\estructuras avanzados\tp_struct_avanzado\funciones_ej7.h
+
+1586038522 c:\users\andres\documents\github\estructuras avanzados\tp_struct_avanzado\ejercicios.h
+	"funciones_ej7.h"
+
+1586042560 c:\users\andres\documents\github\estructuras avanzados\tp_struct_avanzado\ej7.h
+	"funciones_ej7.h"
+
