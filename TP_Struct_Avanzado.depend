@@ -57,3 +57,37 @@
 1586042560 c:\users\andres\documents\github\estructuras avanzados\tp_struct_avanzado\ej7.h
 	"funciones_ej7.h"
 
+1586038562 source:c:\users\andres\documents\github\tp-struct-class4\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+	<cstring>
+	"rlutil.h"
+	"funciones.h"
+	"ejercicios.h"
+	"Ej7.h"
+
+1571584339 c:\users\andres\documents\github\tp-struct-class4\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1585967448 c:\users\andres\documents\github\tp-struct-class4\funciones.h
+
+1586038522 c:\users\andres\documents\github\tp-struct-class4\ejercicios.h
+	"funciones_ej7.h"
+
+1586042765 c:\users\andres\documents\github\tp-struct-class4\funciones_ej7.h
+
+1586042560 c:\users\andres\documents\github\tp-struct-class4\ej7.h
+	"funciones_ej7.h"
+
